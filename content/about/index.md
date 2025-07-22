@@ -1,6 +1,6 @@
 +++
 date = '2025-07-22T10:57:36+02:00'
-draft = true
+draft = false
 title = 'About'
 +++
 I am Aéna Aria (she/her), a student at the Faculté des Sciences et Techonologies in Nancy.
