@@ -67,9 +67,9 @@ pagination.pagerSize = 5
     title = "Aéna Aria"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = ""
       owner = ""
-      keywords = ""
+      keywords = "computer science security infosec malware iot research"
       copyright = ""
       menuMore = "Show more"
       readMore = "Read more"
